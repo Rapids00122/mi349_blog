@@ -1,2 +1,2 @@
 # boilerplate
-Basic HTML and CSS setup for simple web design
+mi349 first blog assignment.
