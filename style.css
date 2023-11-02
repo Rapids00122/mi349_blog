@@ -10,6 +10,15 @@ body {
     color: #242424;
     border-top: 10px solid #242424;
     background: #fff;
+    display: flex;
+}
+
+#blog-body {
+    display: flex;
+}
+
+aside {
+    border: 1px solid black;
 }
 
 img {
@@ -21,10 +30,6 @@ img {
     width: 170px;
     height: 200px;
     margin-right: 10px;
-}
-
-header {
-
 }
 
 nav {
